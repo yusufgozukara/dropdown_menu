@@ -12,7 +12,7 @@ body{
 .container{
     width: 25vh; 
     margin-top: 25vh;
-    margin-left: 40%;
+    margin-left: 45%;
 }
 
 .container:hover ul li{
