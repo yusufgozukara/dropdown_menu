@@ -2,7 +2,5 @@
 
 To see my dropdown menu work 
 
-
-
-[bas buraya](https://yusufgozukara.github.io/dropdown_menu/)
-![](leap2.gif)
+[click here](https://yusufgozukara.github.io/dropdown_menu/)
+![gif](https://github.com/yusufgozukara/dropdown_menu/blob/master/leap2.gif?raw=true)
